@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\BT C#\\Lab 4\\",
+  "WorkspaceRootPath": "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|d:\\bt c#\\lab 4\\lab 4\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|c:\\users\\nguyen thi bich ngoc\\source\\repos\\cntt1701_nguyenthibichngoc_btbackend\\lab 4\\lab 4\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|solutionrelative:lab 4\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|d:\\bt c#\\lab 4\\lab 4\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|c:\\users\\nguyen thi bich ngoc\\source\\repos\\cntt1701_nguyenthibichngoc_btbackend\\lab 4\\lab 4\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|solutionrelative:lab 4\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|d:\\bt c#\\lab 4\\lab 4\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|c:\\users\\nguyen thi bich ngoc\\source\\repos\\cntt1701_nguyenthibichngoc_btbackend\\lab 4\\lab 4\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|solutionrelative:lab 4\\views\\user\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|d:\\bt c#\\lab 4\\lab 4\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|c:\\users\\nguyen thi bich ngoc\\source\\repos\\cntt1701_nguyenthibichngoc_btbackend\\lab 4\\lab 4\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|solutionrelative:lab 4\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|d:\\bt c#\\lab 4\\lab 4\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|c:\\users\\nguyen thi bich ngoc\\source\\repos\\cntt1701_nguyenthibichngoc_btbackend\\lab 4\\lab 4\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|solutionrelative:lab 4\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|d:\\bt c#\\lab 4\\lab 4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|c:\\users\\nguyen thi bich ngoc\\source\\repos\\cntt1701_nguyenthibichngoc_btbackend\\lab 4\\lab 4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B3DE7E49-BD22-43CE-8F60-59D02A2695AF}|Lab 4\\Lab 4.csproj|solutionrelative:lab 4\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\BT C#\\Lab 4\\Lab 4\\Views\\User\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\Lab 4\\Views\\User\\Details.cshtml",
               "RelativeDocumentMoniker": "Lab 4\\Views\\User\\Details.cshtml",
-              "ToolTip": "D:\\BT C#\\Lab 4\\Lab 4\\Views\\User\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\Lab 4\\Views\\User\\Details.cshtml",
               "RelativeToolTip": "Lab 4\\Views\\User\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -56,22 +56,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\BT C#\\Lab 4\\Lab 4\\Views\\User\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\Lab 4\\Views\\User\\Edit.cshtml",
               "RelativeDocumentMoniker": "Lab 4\\Views\\User\\Edit.cshtml",
-              "ToolTip": "D:\\BT C#\\Lab 4\\Lab 4\\Views\\User\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\Lab 4\\Views\\User\\Edit.cshtml",
               "RelativeToolTip": "Lab 4\\Views\\User\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-30T15:26:05.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-30T15:26:05.615Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Add.cshtml",
-              "DocumentMoniker": "D:\\BT C#\\Lab 4\\Lab 4\\Views\\User\\Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\Lab 4\\Views\\User\\Add.cshtml",
               "RelativeDocumentMoniker": "Lab 4\\Views\\User\\Add.cshtml",
-              "ToolTip": "D:\\BT C#\\Lab 4\\Lab 4\\Views\\User\\Add.cshtml",
+              "ToolTip": "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\Lab 4\\Views\\User\\Add.cshtml",
               "RelativeToolTip": "Lab 4\\Views\\User\\Add.cshtml",
               "ViewState": "AgIAACAAAAAAAAAAAAAQwD8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -81,11 +80,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\BT C#\\Lab 4\\Lab 4\\Views\\User\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\Lab 4\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "Lab 4\\Views\\User\\Index.cshtml",
-              "ToolTip": "D:\\BT C#\\Lab 4\\Lab 4\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\Lab 4\\Views\\User\\Index.cshtml",
               "RelativeToolTip": "Lab 4\\Views\\User\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-30T15:23:58.008Z",
               "EditorCaption": ""
@@ -94,9 +93,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\BT C#\\Lab 4\\Lab 4\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\Lab 4\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Lab 4\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\BT C#\\Lab 4\\Lab 4\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\Lab 4\\Controllers\\UserController.cs",
               "RelativeToolTip": "Lab 4\\Controllers\\UserController.cs",
               "ViewState": "AgIAAFcAAAAAAAAAAAAowGIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,9 +105,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "User.cs",
-              "DocumentMoniker": "D:\\BT C#\\Lab 4\\Lab 4\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\Lab 4\\Models\\User.cs",
               "RelativeDocumentMoniker": "Lab 4\\Models\\User.cs",
-              "ToolTip": "D:\\BT C#\\Lab 4\\Lab 4\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\Lab 4\\Models\\User.cs",
               "RelativeToolTip": "Lab 4\\Models\\User.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

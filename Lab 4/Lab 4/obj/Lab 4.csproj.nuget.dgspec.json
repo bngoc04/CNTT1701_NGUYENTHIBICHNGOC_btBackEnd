@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\BT C#\\Lab 4\\Lab 4\\Lab 4.csproj": {}
+    "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\Lab 4\\Lab 4.csproj": {}
   },
   "projects": {
-    "D:\\BT C#\\Lab 4\\Lab 4\\Lab 4.csproj": {
+    "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\Lab 4\\Lab 4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\BT C#\\Lab 4\\Lab 4\\Lab 4.csproj",
+        "projectUniqueName": "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\Lab 4\\Lab 4.csproj",
         "projectName": "Lab 4",
-        "projectPath": "D:\\BT C#\\Lab 4\\Lab 4\\Lab 4.csproj",
+        "projectPath": "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\Lab 4\\Lab 4.csproj",
         "packagesPath": "C:\\Users\\Nguyen Thi Bich Ngoc\\.nuget\\packages\\",
-        "outputPath": "D:\\BT C#\\Lab 4\\Lab 4\\obj\\",
+        "outputPath": "C:\\Users\\Nguyen Thi Bich Ngoc\\source\\repos\\CNTT1701_NGUYENTHIBICHNGOC_btBackEnd\\Lab 4\\Lab 4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
